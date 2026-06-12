@@ -1,0 +1,201 @@
+User_ID,Date,Device,Traffic_Source,Location,Stage_Reached
+U0001,12-Jun-2024,Mobile,Google,Pune,Visit
+U0002,27-Feb-2024,Mobile,Organic,Mumbai,Add to Cart
+U0003,19-May-2024,Mobile,Instagram,Chennai,Visit
+U0004,24-Jan-2024,Mobile,Google,Hyderabad,Signup
+U0005,23-May-2024,Mobile,Organic,Pune,Add to Cart
+U0006,17-Apr-2024,Mobile,Facebook,Hyderabad,Visit
+U0007,02-Jan-2024,Mobile,Organic,Chennai,Visit
+U0008,09-Feb-2024,Mobile,Email,Bangalore,Visit
+U0009,07-Apr-2024,Mobile,Facebook,Kolkata,Visit
+U0010,08-Mar-2024,Mobile,Organic,Chennai,Signup
+U0011,06-Apr-2024,Mobile,Instagram,Bangalore,Add to Cart
+U0012,07-Jun-2024,Mobile,Instagram,Delhi,Add to Cart
+U0013,12-Jan-2024,Tablet,Google,Kolkata,Visit
+U0014,21-Jan-2024,Mobile,Email,Mumbai,Visit
+U0015,26-Apr-2024,Tablet,Email,Bangalore,Visit
+U0016,31-Mar-2024,Mobile,Organic,Bangalore,Add to Cart
+U0017,23-Jun-2024,Tablet,Google,Hyderabad,Signup
+U0018,16-May-2024,Tablet,Google,Delhi,Signup
+U0019,10-Mar-2024,Tablet,Organic,Hyderabad,Visit
+U0020,24-Mar-2024,Mobile,Google,Kolkata,Visit
+U0021,21-Mar-2024,Desktop,Facebook,Mumbai,Visit
+U0022,25-May-2024,Tablet,Facebook,Delhi,Add to Cart
+U0023,11-Apr-2024,Tablet,Facebook,Delhi,Visit
+U0024,04-Mar-2024,Tablet,Instagram,Hyderabad,Visit
+U0025,29-May-2024,Desktop,Instagram,Chennai,Visit
+U0026,05-Feb-2024,Desktop,Facebook,Mumbai,Add to Cart
+U0027,29-Jan-2024,Mobile,Organic,Delhi,Add to Cart
+U0028,18-Apr-2024,Desktop,Google,Chennai,Visit
+U0029,29-Apr-2024,Desktop,Facebook,Hyderabad,Purchase
+U0030,03-Jan-2024,Tablet,Organic,Mumbai,Add to Cart
+U0031,17-May-2024,Mobile,Email,Pune,Visit
+U0032,16-Mar-2024,Desktop,Google,Chennai,Visit
+U0033,08-Mar-2024,Desktop,Email,Delhi,Signup
+U0034,28-Jan-2024,Tablet,Facebook,Kolkata,Signup
+U0035,04-Jun-2024,Mobile,Google,Bangalore,Add to Cart
+U0036,18-May-2024,Desktop,Google,Hyderabad,Visit
+U0037,05-Jan-2024,Mobile,Facebook,Kolkata,Add to Cart
+U0038,02-Mar-2024,Mobile,Google,Hyderabad,Purchase
+U0039,22-Jan-2024,Tablet,Facebook,Kolkata,Visit
+U0040,16-May-2024,Mobile,Google,Pune,Signup
+U0041,20-May-2024,Mobile,Facebook,Hyderabad,Purchase
+U0042,18-Apr-2024,Mobile,Instagram,Kolkata,Add to Cart
+U0043,21-Feb-2024,Tablet,Facebook,Chennai,Purchase
+U0044,15-Jun-2024,Mobile,Facebook,Hyderabad,Signup
+U0045,04-Mar-2024,Mobile,Google,Bangalore,Visit
+U0046,21-May-2024,Mobile,Instagram,Delhi,Visit
+U0047,10-Jun-2024,Mobile,Google,Mumbai,Purchase
+U0048,25-Mar-2024,Mobile,Instagram,Delhi,Visit
+U0049,04-May-2024,Mobile,Instagram,Delhi,Add to Cart
+U0050,26-May-2024,Desktop,Facebook,Delhi,Add to Cart
+U0051,14-Apr-2024,Mobile,Google,Mumbai,Add to Cart
+U0052,31-Mar-2024,Desktop,Facebook,Chennai,Purchase
+U0053,14-Jan-2024,Tablet,Organic,Pune,Visit
+U0054,13-Apr-2024,Tablet,Facebook,Kolkata,Purchase
+U0055,04-Mar-2024,Mobile,Google,Hyderabad,Signup
+U0056,18-Apr-2024,Mobile,Facebook,Chennai,Visit
+U0057,20-Jan-2024,Desktop,Email,Kolkata,Purchase
+U0058,26-Jan-2024,Mobile,Organic,Hyderabad,Add to Cart
+U0059,24-Jan-2024,Mobile,Google,Chennai,Signup
+U0060,24-Feb-2024,Desktop,Google,Delhi,Visit
+U0061,09-Apr-2024,Mobile,Email,Kolkata,Signup
+U0062,18-Apr-2024,Tablet,Organic,Kolkata,Signup
+U0063,04-May-2024,Mobile,Google,Bangalore,Visit
+U0064,15-Jan-2024,Desktop,Organic,Hyderabad,Visit
+U0065,21-Mar-2024,Mobile,Google,Hyderabad,Signup
+U0066,15-May-2024,Mobile,Google,Hyderabad,Visit
+U0067,17-Feb-2024,Mobile,Instagram,Mumbai,Add to Cart
+U0068,01-Mar-2024,Desktop,Google,Hyderabad,Visit
+U0069,01-Jun-2024,Mobile,Instagram,Mumbai,Signup
+U0070,29-May-2024,Desktop,Instagram,Bangalore,Purchase
+U0071,22-Feb-2024,Tablet,Organic,Bangalore,Visit
+U0072,11-Apr-2024,Mobile,Organic,Pune,Visit
+U0073,21-Mar-2024,Mobile,Google,Chennai,Signup
+U0074,24-May-2024,Mobile,Google,Hyderabad,Visit
+U0075,08-Mar-2024,Mobile,Facebook,Mumbai,Purchase
+U0076,04-Apr-2024,Mobile,Google,Chennai,Add to Cart
+U0077,18-Mar-2024,Desktop,Email,Pune,Signup
+U0078,19-Jun-2024,Desktop,Facebook,Pune,Visit
+U0079,04-Feb-2024,Mobile,Google,Mumbai,Add to Cart
+U0080,09-Feb-2024,Mobile,Facebook,Hyderabad,Visit
+U0081,28-Mar-2024,Mobile,Organic,Pune,Purchase
+U0082,09-May-2024,Desktop,Facebook,Kolkata,Visit
+U0083,11-Jun-2024,Desktop,Email,Bangalore,Visit
+U0084,26-Mar-2024,Mobile,Organic,Bangalore,Visit
+U0085,23-Apr-2024,Desktop,Organic,Chennai,Signup
+U0086,29-Jan-2024,Mobile,Organic,Delhi,Signup
+U0087,04-Apr-2024,Desktop,Instagram,Delhi,Signup
+U0088,11-Jan-2024,Mobile,Facebook,Kolkata,Purchase
+U0089,11-Jan-2024,Mobile,Google,Pune,Visit
+U0090,27-Jan-2024,Mobile,Email,Hyderabad,Purchase
+U0091,14-Apr-2024,Desktop,Organic,Delhi,Purchase
+U0092,01-Mar-2024,Mobile,Email,Kolkata,Visit
+U0093,15-Apr-2024,Mobile,Google,Pune,Purchase
+U0094,15-Apr-2024,Tablet,Email,Pune,Add to Cart
+U0095,09-Mar-2024,Mobile,Email,Pune,Visit
+U0096,10-Jan-2024,Desktop,Google,Delhi,Add to Cart
+U0097,27-Apr-2024,Mobile,Facebook,Kolkata,Add to Cart
+U0098,28-Feb-2024,Mobile,Google,Pune,Visit
+U0099,25-Mar-2024,Mobile,Email,Mumbai,Purchase
+U0100,12-Mar-2024,Mobile,Organic,Hyderabad,Visit
+U0101,17-May-2024,Mobile,Google,Mumbai,Purchase
+U0102,07-Mar-2024,Mobile,Instagram,Bangalore,Visit
+U0103,01-Jun-2024,Desktop,Facebook,Pune,Add to Cart
+U0104,21-Apr-2024,Desktop,Instagram,Mumbai,Visit
+U0105,27-May-2024,Mobile,Facebook,Mumbai,Add to Cart
+U0106,01-Jan-2024,Desktop,Email,Hyderabad,Add to Cart
+U0107,20-Jun-2024,Mobile,Facebook,Chennai,Visit
+U0108,19-Jun-2024,Mobile,Instagram,Bangalore,Add to Cart
+U0109,01-Feb-2024,Tablet,Facebook,Hyderabad,Visit
+U0110,14-Apr-2024,Mobile,Facebook,Pune,Visit
+U0111,02-Feb-2024,Mobile,Facebook,Pune,Purchase
+U0112,22-Jun-2024,Tablet,Google,Hyderabad,Signup
+U0113,13-Apr-2024,Desktop,Email,Mumbai,Visit
+U0114,23-Feb-2024,Desktop,Email,Hyderabad,Signup
+U0115,23-Mar-2024,Desktop,Facebook,Chennai,Add to Cart
+U0116,10-May-2024,Desktop,Email,Kolkata,Add to Cart
+U0117,17-Jun-2024,Mobile,Facebook,Hyderabad,Add to Cart
+U0118,07-Jun-2024,Mobile,Google,Kolkata,Purchase
+U0119,01-Mar-2024,Tablet,Facebook,Delhi,Add to Cart
+U0120,07-Feb-2024,Mobile,Google,Delhi,Purchase
+U0121,05-Jun-2024,Mobile,Facebook,Chennai,Purchase
+U0122,27-May-2024,Mobile,Organic,Pune,Visit
+U0123,12-Apr-2024,Mobile,Google,Pune,Add to Cart
+U0124,28-Jan-2024,Desktop,Google,Delhi,Add to Cart
+U0125,27-Jun-2024,Desktop,Facebook,Mumbai,Signup
+U0126,01-Feb-2024,Desktop,Google,Kolkata,Signup
+U0127,15-May-2024,Desktop,Instagram,Bangalore,Purchase
+U0128,23-Apr-2024,Desktop,Email,Pune,Purchase
+U0129,19-Apr-2024,Desktop,Facebook,Delhi,Add to Cart
+U0130,01-May-2024,Desktop,Facebook,Kolkata,Visit
+U0131,12-Jun-2024,Mobile,Email,Kolkata,Signup
+U0132,09-Jun-2024,Mobile,Facebook,Chennai,Visit
+U0133,14-Mar-2024,Mobile,Facebook,Bangalore,Visit
+U0134,18-May-2024,Mobile,Google,Delhi,Visit
+U0135,26-Jun-2024,Mobile,Organic,Delhi,Visit
+U0136,14-Apr-2024,Mobile,Instagram,Chennai,Signup
+U0137,22-Feb-2024,Desktop,Facebook,Kolkata,Signup
+U0138,27-Jun-2024,Mobile,Email,Kolkata,Signup
+U0139,02-May-2024,Mobile,Facebook,Bangalore,Add to Cart
+U0140,17-Apr-2024,Desktop,Organic,Pune,Signup
+U0141,03-Jun-2024,Mobile,Facebook,Delhi,Visit
+U0142,04-May-2024,Mobile,Facebook,Bangalore,Add to Cart
+U0143,13-Apr-2024,Tablet,Google,Kolkata,Signup
+U0144,02-Feb-2024,Desktop,Instagram,Mumbai,Purchase
+U0145,31-May-2024,Desktop,Organic,Mumbai,Visit
+U0146,19-Apr-2024,Mobile,Email,Chennai,Visit
+U0147,07-Mar-2024,Desktop,Facebook,Delhi,Signup
+U0148,27-Mar-2024,Desktop,Facebook,Kolkata,Purchase
+U0149,17-Apr-2024,Mobile,Email,Mumbai,Signup
+U0150,18-May-2024,Mobile,Facebook,Delhi,Add to Cart
+U0151,15-Jun-2024,Mobile,Email,Mumbai,Purchase
+U0152,21-Feb-2024,Mobile,Instagram,Delhi,Visit
+U0153,01-May-2024,Tablet,Google,Hyderabad,Purchase
+U0154,29-Apr-2024,Tablet,Facebook,Kolkata,Visit
+U0155,04-Jun-2024,Desktop,Organic,Pune,Visit
+U0156,11-Feb-2024,Mobile,Google,Hyderabad,Visit
+U0157,20-Mar-2024,Desktop,Organic,Chennai,Visit
+U0158,20-Feb-2024,Mobile,Instagram,Pune,Add to Cart
+U0159,03-Mar-2024,Mobile,Organic,Kolkata,Visit
+U0160,24-Jun-2024,Desktop,Email,Mumbai,Add to Cart
+U0161,24-May-2024,Mobile,Facebook,Hyderabad,Signup
+U0162,04-Apr-2024,Mobile,Instagram,Pune,Visit
+U0163,17-Apr-2024,Desktop,Google,Chennai,Purchase
+U0164,11-Jun-2024,Desktop,Organic,Delhi,Signup
+U0165,13-May-2024,Tablet,Facebook,Hyderabad,Add to Cart
+U0166,17-May-2024,Desktop,Facebook,Chennai,Add to Cart
+U0167,31-May-2024,Mobile,Facebook,Kolkata,Visit
+U0168,23-Jan-2024,Mobile,Facebook,Delhi,Add to Cart
+U0169,25-May-2024,Desktop,Organic,Chennai,Visit
+U0170,06-May-2024,Mobile,Google,Chennai,Visit
+U0171,07-Mar-2024,Mobile,Facebook,Hyderabad,Add to Cart
+U0172,11-Mar-2024,Desktop,Google,Hyderabad,Purchase
+U0173,22-Jan-2024,Mobile,Organic,Chennai,Signup
+U0174,02-Mar-2024,Tablet,Facebook,Pune,Add to Cart
+U0175,24-Apr-2024,Mobile,Google,Bangalore,Visit
+U0176,26-Jun-2024,Mobile,Facebook,Pune,Signup
+U0177,01-May-2024,Desktop,Instagram,Bangalore,Signup
+U0178,20-May-2024,Mobile,Facebook,Pune,Signup
+U0179,19-Mar-2024,Mobile,Google,Mumbai,Add to Cart
+U0180,21-Mar-2024,Mobile,Organic,Hyderabad,Purchase
+U0181,25-Jun-2024,Mobile,Google,Delhi,Add to Cart
+U0182,11-Mar-2024,Tablet,Instagram,Kolkata,Signup
+U0183,13-Mar-2024,Mobile,Email,Delhi,Visit
+U0184,02-Apr-2024,Mobile,Facebook,Mumbai,Add to Cart
+U0185,02-Feb-2024,Mobile,Google,Mumbai,Signup
+U0186,27-Jun-2024,Mobile,Organic,Kolkata,Add to Cart
+U0187,27-Jan-2024,Mobile,Instagram,Bangalore,Signup
+U0188,22-Apr-2024,Mobile,Google,Mumbai,Visit
+U0189,02-May-2024,Mobile,Email,Mumbai,Signup
+U0190,19-Jan-2024,Desktop,Organic,Pune,Visit
+U0191,08-Feb-2024,Desktop,Facebook,Mumbai,Purchase
+U0192,31-Jan-2024,Desktop,Email,Chennai,Signup
+U0193,07-Jun-2024,Mobile,Email,Hyderabad,Visit
+U0194,23-Apr-2024,Mobile,Email,Hyderabad,Purchase
+U0195,19-Mar-2024,Desktop,Instagram,Mumbai,Signup
+U0196,26-Jan-2024,Mobile,Organic,Delhi,Visit
+U0197,21-Jan-2024,Mobile,Google,Delhi,Signup
+U0198,10-Feb-2024,Mobile,Facebook,Chennai,Add to Cart
+U0199,30-Apr-2024,Mobile,Google,Delhi,Visit
+U0200,13-Mar-2024,Tablet,Email,Chennai,Visit
